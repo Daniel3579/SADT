@@ -1,1 +1,2 @@
 This is file2
+Edition for second branch
